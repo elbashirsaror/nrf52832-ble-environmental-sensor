@@ -1,0 +1,33 @@
+# Build output
+build/
+Debug/
+Release/
+Output/
+
+# Segger Embedded Studio
+*.emProject
+*.emSession
+
+# Object files
+*.o
+*.obj
+*.d
+
+# Executables
+*.elf
+*.hex
+*.bin
+*.out
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store]
